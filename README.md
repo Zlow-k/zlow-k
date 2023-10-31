@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlow-k&theme=aura&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there I'm Zlow-k 👋 
+
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zlow-k&count_private=true&show_icons=true&show_icons=true&theme=aura" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlow-k&layout=compact&count_private=true&show_icons=true&theme=aura" />
+</p>
 
 <!--
 **Zlow-k/zlow-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
