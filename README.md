@@ -5,7 +5,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zlow-k&count_private=true&show_icons=true&show_icons=true&theme=aura" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zlow-k&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zlow-k&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
