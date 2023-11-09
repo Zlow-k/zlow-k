@@ -14,8 +14,8 @@
 --->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlow-k&layout=compact&count_private=true&show_icons=true&theme=aura" />
-  <img alt="github stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=zlow-k&count_private=true&show_icons=true&show_icons=true&theme=aura" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlow-k&layout=compact&count_private=true&show_icons=true&theme=aura&count_private=true" />
+  <img alt="github stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=zlow-k&count_private=true&show_icons=true&show_icons=true&theme=aura&count_private=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zlow-k&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
